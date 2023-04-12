@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right top, #082028, #163541, #264b5d, #38637a, #4c7b98, #547796, #5c7292, #636e8e, #554f66, #3f3441, #241d21, #000000);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.card {
+  width: 18rem;
+  height: fit-content !important;
+}
+
+/*# sourceMappingURL=style.css.map */
